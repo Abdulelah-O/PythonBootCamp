@@ -1,2 +1,4 @@
 # PythonBootCamp
-Python bootcamp project 
+This project for the Python bootcamp that was held at Imam Muhammad bin Saud University from 2023/12/10 to 2023/12/14
+
+
